@@ -48,8 +48,24 @@ Currently exploring machine learning, data analysis, and improving my coding ski
 - Building a stronger foundation in data science
 
 ## Connect
-LinkedIn: https://linkedin.com/in/YOUR-LINK
+LinkedIn:# Hi, I’m Nisha 👋
 
+I’m a Data Science engineering student who enjoys learning how data can be used to solve real problems.  
+Currently exploring machine learning, data analysis, and improving my coding skills step by step.
+
+## Skills
+- Python
+- SQL
+- Machine Learning (beginner level)
+- Data Structures & Algorithms
+
+## What I’m working on
+- Academic and mini projects
+- Practicing problem solving
+- Building a stronger foundation in data science
+
+## Connect
+LinkedIn: https://linkedin.com/in/nisha-bharti-098468288/
 ---
 
 ⭐ Always learning, building, and growing.
