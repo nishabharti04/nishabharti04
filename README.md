@@ -1,13 +1,13 @@
-# Hi, I'm Nisha Bharti 👋
+# Hi, I'm Nisha Bharti 
 
-🎓 Data Science Engineering Student  
-💻 Passionate about Data Science, Machine Learning & Problem Solving  
-📊 Exploring Data Analysis, AI, and real-world projects  
-🌱 Currently improving my skills in Python, SQL, and Machine Learning  
+ Data Science Engineering Student  
+ Passionate about Data Science, Machine Learning & Problem Solving  
+ Exploring Data Analysis, AI, and real-world projects  
+ Currently improving my skills in Python, SQL, and Machine Learning  
 
 ---
 
-## 🛠️ Tech Skills
+##  Tech Skills
 - Programming: Python, C
 - Databases: SQL
 - Data Science: Machine Learning, Data Analysis
@@ -16,14 +16,14 @@
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 - Building Data Science & ML projects  
 - Improving problem-solving skills  
 - Preparing for internships and placements  
 
 ---
 
-## 📂 Featured Areas
+##  Featured Areas
 - Machine Learning Projects  
 - Data Analysis Projects  
 - Academic & Mini Projects  
