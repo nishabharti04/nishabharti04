@@ -8,11 +8,11 @@
 ---
 
 ##  Tech Skills
-- Programming: Python, C
+- Programming: Python, C,C++,R
 - Databases: SQL
 - Data Science: Machine Learning, Data Analysis
 - Core CS: Data Structures & Algorithms
-- Tools: Git, GitHub, SQL*Plus
+- Tools: Git, GitHub, R Studio
 
 ---
 
@@ -54,7 +54,7 @@ I’m a Data Science engineering student who enjoys learning how data can be use
 Currently exploring machine learning, data analysis, and improving my coding skills step by step.
 
 ## Skills
-- Python
+- Python,C++
 - SQL
 - Machine Learning (beginner level)
 - Data Structures & Algorithms
